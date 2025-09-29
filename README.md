@@ -18,14 +18,6 @@ Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. 
 
 Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
 
-## Instalación
-
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
-
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
-
 ### Docente
 
 **Joan Gasull Jolis**
@@ -33,7 +25,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joan-gasull-jolis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/python-para-data-science-y-big-data-esencial-2025
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQEOmQn-8-f4aA/learning-public-crop_675_1200/B4EZlv4PsBKsAY-/0/1758518640229?e=2147483647&v=beta&t=9bSse8WCJx6mfkzi9OJOTHODtNprgoneMgVCf3wk9MQ
 
 [1]: # (End of ES-Instruction ###############################################################################################)
